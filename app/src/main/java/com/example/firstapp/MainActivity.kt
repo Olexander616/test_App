@@ -33,6 +33,7 @@ class MainActivity : AppCompatActivity() {
             counter-=1
             myText.text = counter.toString()
             saveNumber(counter)
+
         }
 
     }
